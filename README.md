@@ -1,3 +1,4 @@
+# pir8-CMS 1.0
 # PanoplyCMS 2.0
 
 
