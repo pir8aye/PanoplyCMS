@@ -1,5 +1,11 @@
 # pir8-CMS 1.0
 
+## Dependencies
+Install dependencies directly to your CMS source folder.
+- [Choco](https://chocolatey.org/install) 
+- [Meteor](https://www.meteor.com/install)
+- [NPM](https://www.npmjs.com/get-npm)
+
 
 ## Installation Method
 - Pull pir8-CMS from GitHub Repository on your system OR you can download zip and extract it on your machine.
