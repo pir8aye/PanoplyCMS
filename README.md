@@ -10,9 +10,10 @@ Install dependencies directly to your CMS source folder.
 ## Installation Method
 - Pull pir8-CMS from GitHub Repository on your system OR you can download zip and extract it on your machine.
 - Go to folder location through terminal or command prompt
-- First run: `meteor npm install` than run: `meteor --settings settings.json` . Please wait for server to get start. It will automatically install all dependencies and will start running.
-- Once it start running, go to your browser and type: http://localhost:3000
-- Thats it! You have installed pir8-CMS on your system successfully.
+- First run: `meteor npm install` 
+- Then run: `meteor --settings settings.json` . Please wait for server to get start. It will automatically install all dependencies and will start running.
+- Once server starts running, go to your browser and type: http://localhost:3000
+- Thats it! You have successfully installed pir8-CMS on your system.
 
 - Frontend Link: http://localhost:3000
 - Backend Link: http://localhost:3000/admin
