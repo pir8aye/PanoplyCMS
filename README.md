@@ -5,9 +5,9 @@ Install dependencies directly to your CMS source folder.
 - [Choco](https://chocolatey.org/install) 
     - `SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"`    
 - [Meteor](https://www.meteor.com/install)
-    - install with the command: `choco install meteor --execution-timeout 5400`
+    - If you receive a timeout error, install with the command: `choco install meteor --execution-timeout 5400`
     - [Alternate Windows Installation](https://github.com/meteor/docs/blob/master/long-form/alternate-windows-installation.md)
-    - `SET "PATH=%PATH%;%LocalAppData%\.meteor"`
+    - `SET "PATH=%PATH%;AppData\Local\.meteor"`
     - Turn off antivirus and firewall
 - [NPM](https://www.npmjs.com/get-npm)
 
